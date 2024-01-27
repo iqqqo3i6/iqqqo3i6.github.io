@@ -1,13 +1,11 @@
-title: Parchment
-author: pro-panda
+title: 🌝
+author: iqqqo3i6
 subtitle: The life of a frustrated engineer
 
-url: "https://rahulbothra.com"
-baseurl: "/parchment"
+url: "https://iqqqo3i6.github.io"
+baseurl: "/"
 
 footer_only_homepage: true
-footer_url: "https://github.com/rhl-bthr"
-footer_text: "Theme by rhl-bthr"
 
 profile-picture: assets/profile.png
 favicon_location: assets/favicon.ico
@@ -21,4 +19,4 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Resume"
-   absolute-link: "https://rahulbothra.com/cv.pdf"
+   absolute-link: ""
